@@ -1,0 +1,22 @@
+body{
+    background-image: url("space gif.gif");
+    background-position: center;
+    background-repeat: no repeat;
+    background-size: cover;
+    color: antiquewhite;
+}
+
+h1{
+    color: aquamarine;
+    background-color: rgb(16, 16, 46);
+    text-decoration: underline;
+}
+
+a{
+    color: black;
+    background-color: rgb(40, 107, 107);
+}
+
+a:hover{
+    color: rgb(68, 68, 189);
+}
